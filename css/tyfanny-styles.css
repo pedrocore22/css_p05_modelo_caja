@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/* Reseteo CSS elimina los estilos por defecto que necesitemos */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.franja {
+    background-color: #52b7bd;
+    margin-top: 140px;
+    text-align: center;
+}
+
+.franja p {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.franja img {
+    margin-top: -50px;
+}
